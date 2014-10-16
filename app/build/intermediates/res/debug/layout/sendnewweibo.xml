@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/login"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical">
+
+	<EditText
+		android:layout_height="wrap_content"
+		android:inputType="textMultiLine"
+		android:ems="10"
+		android:layout_width="match_parent"
+		android:textSize="24dp"
+		android:id="@+id/et1"/>
+
+	<Button
+		android:layout_height="wrap_content"
+		android:text="发送"
+		android:layout_width="wrap_content"
+		android:id="@+id/bt1"/>
+
+	<ImageButton
+		android:layout_height="48dp"
+		android:layout_width="64dp"
+		android:id="@+id/bt2"/>
+
+	<ImageView
+		android:clickable="true"
+		android:layout_height="100dp"
+		android:layout_width="100dp"
+		android:id="@+id/preview1"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/number"
+		android:textSize="16dp"/>
+    </LinearLayout><!-- From: file:/E:/LightWei/app/src/main/res/layout/sendnewweibo.xml -->

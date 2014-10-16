@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dongsky.lightwei.Main" >
+
+   <item
+        android:id="@+id/action_send_new_weibo"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="发微博"/>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+	<item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="注销"/>
+    
+    <item
+        android:id="@+id/action_quit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_quit"/>
+
+</menu>

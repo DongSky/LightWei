@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="E:\LightWei\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-67f556deee17b1d70e5de70d651938c08bfcc13d.jar"
+        jar="E:\LightWei\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="E:\LightWei\app\build\intermediates\pre-dexed\debug\weibosdkcore-2a07b4aae350f06aa7cf842898ffc0725e730920.jar"
+        jar="E:\LightWei\app\libs\weibosdkcore.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="94471fb40a1a2175b5993cdf0af0b8e59ed29fb3"/>
+    <item
+        dex="E:\LightWei\app\build\intermediates\pre-dexed\debug\classes-19bef54a77136b38860b28e0e02be3ac52c92909.jar"
+        jar="E:\LightWei\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="E:\LightWei\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-46051ad6cdd86f37ec57ef54e225355cab818b22.jar"
+        jar="F:\软件\Android studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
